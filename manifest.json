@@ -7,7 +7,7 @@
       "version": "2026.1",
       "calculationFormatVersion": 3,
       "dataSetId": "kohaku-tax-zh-2026",
-      "checksumSha256": "15d573a0698d8a6d2c672a6938b074a0ddcac3c48be74bf3e3d52658fa20303b",
+      "checksumSha256": "9df5cd81054423cd303c04bea2b81642a4908e318cd74db8fc8c42ee29953b8f",
       "url": "https://raw.githubusercontent.com/ID7ZH/KohakuTaxData/main/packages/zh/2026.json",
       "sourceUrl": "https://www.zh.ch/de/steuern-finanzen/steuern/steuerstatistiken/aktuelle-gemeinde-steuerfuesse.html",
       "publishedAtEpochMillis": 1774310400000
