@@ -11,6 +11,16 @@
       "url": "https://raw.githubusercontent.com/ID7ZH/KohakuTaxData/main/packages/zh/2026.json",
       "sourceUrl": "https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/steuern-finanzen/steuern/natuerlichepersonen/2026/est-wegleitungen-uj/305%20Wegleitung%20ZH%202026%20UJ%20bf.pdf",
       "publishedAtEpochMillis": 1774310400000
+    },
+    {
+      "cantonCode": "SH",
+      "taxYear": 2026,
+      "version": "2026.1",
+      "calculationFormatVersion": 4,
+      "dataSetId": "kohaku-tax-sh-2026",
+      "checksumSha256": "f538f1c753766ae68e7cfa20a424980790f5b2a7623be6c4d49dd6f3d4b5a4af",
+      "url": "https://raw.githubusercontent.com/ID7ZH/KohakuTaxData/main/packages/sh/2026.json",
+      "sourceUrl": "https://www.estv2.admin.ch/stp/kb/sh-de.pdf"
     }
   ]
 }
