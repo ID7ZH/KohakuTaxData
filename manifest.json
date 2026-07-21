@@ -4,10 +4,10 @@
     {
       "cantonCode": "ZH",
       "taxYear": 2026,
-      "version": "2026.2",
-      "calculationFormatVersion": 4,
+      "version": "2026.3",
+      "calculationFormatVersion": 5,
       "dataSetId": "kohaku-tax-zh-2026",
-      "checksumSha256": "fcb6b471eb8f9b6a4c997a1898cb5ca8b56fe53c52f94737cd6f488810e5d0c8",
+      "checksumSha256": "a382b097256fc381e6f1de607d89c5d587ced6fe8d8434a9ef47a41bc8ef2ac9",
       "url": "https://raw.githubusercontent.com/ID7ZH/KohakuTaxData/main/packages/zh/2026.json",
       "sourceUrl": "https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/steuern-finanzen/steuern/natuerlichepersonen/2026/est-wegleitungen-uj/305%20Wegleitung%20ZH%202026%20UJ%20bf.pdf",
       "publishedAtEpochMillis": 1774310400000
@@ -16,9 +16,9 @@
       "cantonCode": "SH",
       "taxYear": 2026,
       "version": "2026.1",
-      "calculationFormatVersion": 4,
+      "calculationFormatVersion": 5,
       "dataSetId": "kohaku-tax-sh-2026",
-      "checksumSha256": "324dc91dfa846ec25680fa17bf03125203dea1d642e5376509334da5f191e2ab",
+      "checksumSha256": "a7f4456a70a4035f81fced1d87801cc7c421f18c071f943fa70e20dc7147fd47",
       "url": "https://raw.githubusercontent.com/ID7ZH/KohakuTaxData/main/packages/sh/2026.json",
       "sourceUrl": "https://www.estv2.admin.ch/stp/kb/sh-de.pdf"
     }
