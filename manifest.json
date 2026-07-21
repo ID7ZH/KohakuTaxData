@@ -7,9 +7,9 @@
       "version": "2026.2",
       "calculationFormatVersion": 4,
       "dataSetId": "kohaku-tax-zh-2026",
-      "checksumSha256": "808fd8c3a62bb65cfdf91e6bd137c1759ba821799fdc6bf6ddb41539dda3cf8c",
+      "checksumSha256": "fcb6b471eb8f9b6a4c997a1898cb5ca8b56fe53c52f94737cd6f488810e5d0c8",
       "url": "https://raw.githubusercontent.com/ID7ZH/KohakuTaxData/main/packages/zh/2026.json",
-      "sourceUrl": "https://www.zh.ch/de/steuern-finanzen/steuern/steuerstatistiken/aktuelle-gemeinde-steuerfuesse.html",
+      "sourceUrl": "https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/steuern-finanzen/steuern/natuerlichepersonen/2026/est-wegleitungen-uj/305%20Wegleitung%20ZH%202026%20UJ%20bf.pdf",
       "publishedAtEpochMillis": 1774310400000
     }
   ]
