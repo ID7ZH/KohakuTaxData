@@ -6,7 +6,7 @@ Das Repository enthält ausschliesslich aus amtlichen Quellen abgeleitete Berech
 
 ## Verfügbare Pakete
 
-- Kanton Zürich, Steuerperiode 2026
+- Kanton Zürich, Steuerperiode 2026 (Tarife, Steuerfüsse und Berufskostenabzüge)
 
 Die App lädt nur das Paket des benötigten Kantons und Steuerjahres. Quelle, Version und Prüfsumme bleiben im jeweiligen Manifest nachvollziehbar.
 
